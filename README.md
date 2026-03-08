@@ -123,79 +123,70 @@ sirajlab\ssales
 
 ---
 
-# Lab Screenshots
+## Lab Screenshots
 
-## Virtual Lab Environment
-
-![Virtual Machines](screenshots/01-lab-virtual-machines.png)
-
----
-
-## Active Directory Domain Created
-
-![Domain Created](screenshots/02-domain-created-sirajlab.png)
+### Virtual Lab Environment
+![Virtual Machines](screenshots/01-lab-virtual-machines.png.png)
 
 ---
 
-## Active Directory Installation
-
-![ADDS Installation](screenshots/03-adds-installation.png)
-
----
-
-## Active Directory Structure
-
-![AD Structure](screenshots/04-active-directory-structure.png)
+### Active Directory Domain Created
+![Domain Created](screenshots/02-domain-created-sirajlab.png.png)
 
 ---
 
-## Users Created
-
-![Users Created](screenshots/05-users-created.png)
-
----
-
-## Groups Created
-
-![Groups Created](screenshots/06-groups-created.png)
+### Active Directory Installation
+![ADDS Installation](screenshots/03-adds-installation.png.png)
 
 ---
 
-## DNS Configuration on Client
-
-![DNS Configuration](screenshots/07-client-dns-config.png)
-
----
-
-## Password Reset
-
-![Password Reset](screenshots/07-password-reset.png)
+### Active Directory Structure
+![AD Structure](screenshots/04-active-directory-structure.png.png)
 
 ---
 
-## Force Password Change
-
-![Password Change](screenshots/08-force-password-change.png)
-
----
-
-## Disabled User Account
-
-![Disabled User](screenshots/09-disabled-user.png)
+### Users Created
+![Users Created](screenshots/05-users-created.png.png)
 
 ---
 
-## Domain Login Verification
+### Groups Created
+![Groups Created](screenshots/06-groups-created.png.png)
 
-![Domain Login](screenshots/11-domain-user-login.png)
+---
+
+### DNS Configuration on Client
+![DNS Configuration](screenshots/07-client-dns-config.png.png)
 
 ---
 
-## Account Unlock
-
-![Account Unlock](screenshots/13-account-unlock.png)
+### Password Reset
+![Password Reset](screenshots/07-password-reset.png.png)
 
 ---
+
+### Force Password Change
+![Password Change](screenshots/08-force-password-change.png.png)
+
+---
+
+### Disabled User Account
+![Disabled User](screenshots/09-disabled-user.png.png)
+
+---
+
+### Domain Login Verification
+![Domain Login](screenshots/11-domain-user-login.png.png)
+
+---
+
+### Domain Join Success
+![Domain Join](screenshots/12-domain-join-success.png.png)
+
+---
+
+### Account Unlock
+![Account Unlock](screenshots/13-account-unlock.png.png)
 
 # Skills Demonstrated
 
